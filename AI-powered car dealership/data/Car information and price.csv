@@ -1,0 +1,55 @@
+name,mpg,cylinders,displacement,horsepower,weight,acceleration,model_year,origin,price
+chevrolet chevelle malibu,18,8,307,130,3504,12,70,usa,121639
+buick skylark 320,15,8,350,165,3693,11.5,70,usa,120331
+plymouth satellite,18,8,318,150,3436,11,70,usa,93436
+amc rebel sst,16,8,304,150,3433,12,70,usa,137338
+ford torino,17,8,302,140,3449,10.5,70,usa,64049
+ford galaxie 500,15,8,429,198,4341,10,70,usa,132762
+chevrolet impala,14,8,454,220,4354,9,70,usa,122168
+plymouth fury iii,14,8,440,215,4312,8.5,70,usa,118705
+pontiac catalina,14,8,455,225,4425,10,70,usa,94583
+amc ambassador dpl,15,8,390,190,3850,8.5,70,usa,69437
+dodge challenger se,15,8,383,170,3563,10,70,usa,79351
+plymouth 'cuda 340,14,8,340,160,3609,8,70,usa,106979
+chevrolet monte carlo,15,8,400,150,3761,9.5,70,usa,133355
+buick estate wagon (sw),14,8,455,225,3086,10,70,usa,146274
+toyota corona mark ii,24,4,113,95,2372,15,70,japan,78602
+plymouth duster,22,6,198,95,2833,15.5,70,usa,145177
+amc hornet,18,6,199,97,2774,15.5,70,usa,44061
+ford maverick,21,6,200,85,2587,16,70,usa,122761
+datsun pl510,27,4,97,88,2130,14.5,70,japan,98495
+volkswagen 1131 deluxe sedan,26,4,97,46,1835,20.5,70,europe,109145
+peugeot 504,25,4,110,87,2672,17.5,70,europe,128547
+audi 100 ls,24,4,107,90,2430,14.5,70,europe,31202
+saab 99e,25,4,104,95,2375,17.5,70,europe,71661
+bmw 2002,26,4,121,113,2234,12.5,70,europe,96629
+amc gremlin,21,6,199,90,2648,15,70,usa,146816
+ford f250,10,8,360,215,4615,14,70,usa,98194
+chevy c20,10,8,307,200,4376,15,70,usa,120991
+dodge d200,11,8,318,210,4382,13.5,70,usa,110240
+hi 1200d,9,8,304,193,4732,18.5,70,usa,86353
+datsun pl510,27,4,97,88,2130,14.5,71,japan,147627
+chevrolet vega 2300,28,4,140,90,2264,15.5,71,usa,57398
+toyota corona,25,4,113,95,2228,14,71,japan,125290
+ford pinto,25,4,98,,2046,19,71,usa,149152
+amc gremlin,19,6,232,100,2634,13,71,usa,114975
+plymouth satellite custom,16,6,225,105,3439,15.5,71,usa,77619
+chevrolet chevelle malibu,17,6,250,100,3329,15.5,71,usa,114905
+ford torino 500,19,6,250,88,3302,15.5,71,usa,122703
+amc matador,18,6,232,100,3288,15.5,71,usa,128566
+chevrolet impala,14,8,350,165,4209,12,71,usa,47868
+pontiac catalina brougham,14,8,400,175,4464,11.5,71,usa,112683
+ford galaxie 500,14,8,351,153,4154,13.5,71,usa,109353
+plymouth fury iii,14,8,318,150,4096,13,71,usa,132034
+dodge monaco (sw),12,8,383,180,4955,11.5,71,usa,127912
+ford country squire (sw),13,8,400,170,4746,12,71,usa,106460
+pontiac safari (sw),13,8,400,175,5140,12,71,usa,103038
+amc hornet sportabout (sw),18,6,258,110,2962,13.5,71,usa,71707
+chevrolet vega (sw),22,4,140,72,2408,19,71,usa,131406
+pontiac firebird,19,6,250,100,3282,15,71,usa,130213
+ford mustang,18,6,250,88,3139,14.5,71,usa,148768
+mercury capri 2000,23,4,122,86,2220,14,71,usa,111495
+opel 1900,28,4,116,90,2123,14,71,europe,117034
+peugeot 304,30,4,79,70,2074,19.5,71,europe,99717
+fiat 124b,30,4,88,76,2065,14.5,71,europe,60503
+toyota corolla 1200,31,4,71,65,1773,19,71,japan,136438
