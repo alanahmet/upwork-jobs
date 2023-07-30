@@ -11,4 +11,4 @@ The job was AI-powered chatbots for car dealerships. There was not much explanat
 - [ ] Create a cloud knowledgebase
 - [ ] Deploy the app to Cloud
 
-![showcase]([http://url/to/img.png](https://raw.githubusercontent.com/alanahmet/upwork-jobs/main/AI-powered%20car%20dealership/showcase/showcase1.png)https://raw.githubusercontent.com/alanahmet/upwork-jobs/main/AI-powered%20car%20dealership/showcase/showcase1.png)
+![showcase](https://raw.githubusercontent.com/alanahmet/upwork-jobs/main/AI-powered%20car%20dealership/showcase/showcase1.png)
